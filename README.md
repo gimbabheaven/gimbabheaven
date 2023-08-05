@@ -24,8 +24,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  heavenstats </h2> <br> 
   
 <!-- dark, dracula, default -->
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)
-![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark)
 
 
 <br> 
