@@ -20,15 +20,15 @@
   </div>
 
 <!-- stats -->
+<div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  heavenstats </h2> <br> 
-  
-<!-- dark, dracula, default -->
+
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark)
 
 
-<br> 
 
 
+<!-- hits -->
 <div  align= "center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimbabheaven%2Fhit-counter&count_bg=%23FFDD54&title_bg=%231E3F5C&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -46,3 +46,4 @@
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lydwhynot)](https://solved.ac/lydwhynot) -->
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot) -->
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark) -->
+<!-- ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark) -->
