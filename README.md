@@ -23,7 +23,7 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  heavenstats </h2> <br> 
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark) ![](https://leetcard.jacoblin.cool/lydwhynot?theme=dark&width=490&height=195)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)![](https://leetcard.jacoblin.cool/lydwhynot?theme=dark&width=490&height=195)
 
 <br> 
 <div style="text-align: left;">  </div>
