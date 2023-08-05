@@ -22,12 +22,11 @@
 <!-- stats -->
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  heavenstats </h2> <br> 
+ <div  align= "center">
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lydwhynot)](https://solved.ac/lydwhynot)
-![](https://leetcard.jacoblin.cool/lydwhynot?theme=dark&width=490&height=195)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lydwhynot)](https://solved.ac/lydwhynot) ![](https://leetcard.jacoblin.cool/lydwhynot?theme=dark&width=490&height=195)
 
-<br> 
-<div style="text-align: left;">  </div>
+</div>
 </div>
 <br>
 <br>
