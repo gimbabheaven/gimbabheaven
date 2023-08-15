@@ -24,7 +24,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  heavenstats </h2> <br> 
  <div  align= "center">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lydwhynot)](https://solved.ac/lydwhynot) ![](https://leetcard.jacoblin.cool/lydwhynot?theme=dark&width=490&height=195)
+
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=graywhite)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=default&width=490&height=195)
 
 </div>
 </div>
@@ -48,4 +49,5 @@
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lydwhynot)](https://solved.ac/lydwhynot) -->
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot) -->
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark) -->
-<!-- ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark) -->
+<!--![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=dark)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=dark)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lydwhynot)](https://solved.ac/lydwhynot) ![](https://leetcard.jacoblin.cool/lydwhynot?theme=dark&width=490&height=195) -->
