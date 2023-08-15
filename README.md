@@ -25,7 +25,7 @@
  <div  align= "center">
 
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=graywhite)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=default&width=490&height=195)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=graywhite)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=default&width=480&height=195)
 
 </div>
 </div>
