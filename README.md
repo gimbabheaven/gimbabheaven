@@ -22,12 +22,11 @@
 <!-- stats -->
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  heavenstats </h2> <br> 
- <!--<div  align= "center">-->
-
+<div  align= "center" style="width:100%">
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimbabheaven&show_icons=true&theme=graywhite)![Leetcode Stats](https://leetcard.jacoblin.cool/lydwhynot?theme=default&width=480&height=195)
 
-<!--</div>-->
+</div>
 </div>
 <br>
 <br>
