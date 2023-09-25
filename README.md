@@ -2,7 +2,6 @@
   <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  howtoreachme </h2> <br> 
     <div">
-    <a href=https://gbheaven.notion.site/Portfolio-b28297f3899041ea8057dd5a6814359c?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://gbheaven.notion.site/Portfolio-b28297f3899041ea8057dd5a6814359c?pvs=4"> </a>
     <a href=http://www.linkedin.com/in/gbheaven> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/gbheaven"> </a>
      <a href=mailto:lydwhynot@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lydwhynot@gmail.com"> </a>
     </div>  <br> 
