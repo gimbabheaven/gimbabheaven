@@ -2,7 +2,7 @@
 ### I'm interest in
 - real-time data streaming
 - AI on Web Accessibility
-- AI in financial services
+- AI Model Lightweight
 <br>
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
