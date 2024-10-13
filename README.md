@@ -1,8 +1,11 @@
 ### Hi There👋
 ### I'm interest in
-- real-time data streaming
+
 - Data governance
 - Data Ops
+- Data-Centric AI
+- Data Science research based on Behavioral Economics
+
 <br>
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
